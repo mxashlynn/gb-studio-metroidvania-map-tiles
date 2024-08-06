@@ -2,7 +2,7 @@
 
 This repository contains a minimal set of tiles needed to create a metroidvania-style map.
 The arrangement attempts to group similar tiles together while maintaining visual distinctness.
-The tiles are encoded as a PNG using [GB Studio](https://github.com/chrismaltby/gb-studio/) 4's background colors; these are compatible with all earlier versions of GB Studio.
+The tiles are formatted as a PNG using [GB Studio](https://github.com/chrismaltby/gb-studio/) 4's background colors; these are compatible with all earlier versions of GB Studio.
 
 Also included is a minimal project file and tile definition file for use with the [Tiled](https://www.mapeditor.org/) map editor.
 
