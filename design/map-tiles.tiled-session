@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tiles/map_tiles.tsx",
+    "expandedProjectPaths": [
+        "tiles",
+        "."
+    ],
+    "fileStates": {
+        "sample_map-center_of_inverted_castle.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 81.875,
+                "y": 64
+            }
+        },
+        "tiles/map_tiles.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.imagePath": "",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 18,
+    "openFiles": [
+        "tiles/map_tiles.tsx"
+    ],
+    "project": "map-tiles.tiled-project",
+    "recentFiles": [
+        "tiles/map_tiles.tsx",
+        "sample_map-center_of_inverted_castle.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
